@@ -6,15 +6,16 @@
 - Diplômée d'un Bachelor Universitaire de Technologie en Informatique (BUT)
 - Élève ingénieure à l'Efrei
 - Alternante chez Inflexsys en tant que développeuse full-stack
+- Parlons d'Angular !
 
 ---
 
-### 🛠️ Technologies
+### 🎯 Mes prochains objectifs
 
-#### Langages
-#### Front
-#### Back
-#### Outils
+- Court terme : Perfectionner mes compétences en Angular et apprendre Java avec un framework
+- Moyen terme : Obtenir le diplôme d'ingénieur
+- Long terme : Devenir experte en Angular et Java et/ou C# et/ou PHP
+
 --- 
 
 ### 📂 Projets academiques
