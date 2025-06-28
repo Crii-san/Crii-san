@@ -24,7 +24,7 @@
 ---
 
 ### 🚀 Projets personnels
-- À venir
+- [Portfolio](https://github.com/Crii-san/portfolio)
 
 ---
 ### 💬​ Où me trouver ?
